@@ -33,3 +33,7 @@ Hack for PR Tech Summit. Visualize AEE Breakdowns.
 - Map of incidents
 - Archived data
 - How weather affects AEE infrastructure
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/froi/aee-maps/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
